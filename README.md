@@ -1,6 +1,6 @@
 ## lol lang
 
-Lol lang is an assembly style interpreted language with its syntax inspired from assembly
+Lol lang is an interpreted language with its syntax inspired from assembly
 
 - Currently works only with integers
 - supports the following features
